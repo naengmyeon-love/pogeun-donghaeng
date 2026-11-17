@@ -1,0 +1,35 @@
+{
+  "source": "https://pogeun-donghaeng-demo.svbrbmssyf.chatgpt.site",
+  "capturedAt": "2026-11-03T05:45:27.416Z",
+  "viewport": {
+    "width": 1440,
+    "height": 960
+  },
+  "pageErrors": [],
+  "files": [
+    "central-distribution.png",
+    "central-materials.png",
+    "institution-matching.png",
+    "student-today.png",
+    "tutor-today.png",
+    "central-agent-input.png",
+    "central-agent-result.png"
+  ],
+  "additionalCaptures": [
+    {
+      "files": [
+        "central-agent-input.png",
+        "central-agent-result.png"
+      ],
+      "source": "https://pogeun-donghaeng-demo.svbrbmssyf.chatgpt.site",
+      "capturedAt": "2026-11-03T08:02:05.608Z",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "publicationVersion": 2,
+      "mode": "공개 배포본 · 새 격리 브라우저 · 가입 없는 중앙 운영자 예시 데이터",
+      "pageErrors": []
+    }
+  ]
+}

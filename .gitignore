@@ -1,0 +1,18 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Local browser verification artifacts and backups
+/발표자료/*/qa/
+
+# Deployment workspace and generated deployment archives
+/공개배포/site/
+/공개배포/*.tar.gz
+/공개배포/배포-정보.json
+
+# Local design generation records contain workstation paths
+/시안/**/생성-기록.json

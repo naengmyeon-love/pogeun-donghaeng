@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="980" viewBox="0 0 1440 980"><title>기관 · 화면 흐름도</title><desc>기관이 참여 확인·매칭 확정·수업 운영을 맡고, 중앙 자료와 운영 지원을 연결합니다.</desc><rect width="1440" height="980" fill="#F5F7FC"/>
+<text x="48" y="46.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">포근동행  /  역할별 UX 설계  /  2026.11.01</text>
+<text x="48" y="104.24" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="36" fill="#17243B">기관 · 화면 흐름도</text>
+<text x="48" y="141.96" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="19" fill="#52627B">기관이 참여 확인·매칭 확정·수업 운영을 맡고, 중앙 자료와 운영 지원을 연결합니다.</text>
+<polyline points="48,166 1392,166" fill="none" stroke="#DCE3EE" stroke-width="1"/>
+<text x="48" y="197.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">01  기관에서 튜터·학생 직접 매칭</text>
+<rect x="48" y="220" width="240" height="112" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="64" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">I02 참여 학생</text>
+<text x="64" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">I03 참여·동의 확인</text>
+<text x="64" y="313.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">미완료는 보완 안내</text>
+<polyline points="288,276 324,276" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="324,276 314.9955289764732,280.3496553411123 314.9955289764732,271.6503446588877" fill="#9AAAC3"/>
+<rect x="324" y="220" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="340" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I04 후보 선택</text>
+<text x="340" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">튜터 자격·과목</text>
+<text x="340" y="313.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">시간·정원 확인</text>
+<polyline points="564,276 600,276" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="600,276 590.9955289764732,280.3496553411123 590.9955289764732,271.6503446588877" fill="#9AAAC3"/>
+<rect x="600" y="220" width="240" height="112" rx="16" fill="#FFF0E5" stroke="#DCE3EE"/>
+<text x="616" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I04 조건 확인</text>
+<text x="616" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">가능 / 보완 필요</text>
+<text x="616" y="313.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">가능할 때만 확정</text>
+<polyline points="840,276 876,276" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="876,276 866.9955289764732,280.3496553411123 866.9955289764732,271.6503446588877" fill="#9AAAC3"/>
+<rect x="876" y="220" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="892" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I04 매칭 확정</text>
+<text x="892" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">기관 담당자가 확정</text>
+<text x="892" y="313.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">학생·튜터 안내</text>
+<polyline points="1116,276 1152,276" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="1152,276 1142.9955289764732,280.3496553411123 1142.9955289764732,271.6503446588877" fill="#9AAAC3"/>
+<rect x="1152" y="220" width="240" height="112" rx="16" fill="#E7F6F1" stroke="#DCE3EE"/>
+<text x="1168" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I05 수업 운영</text>
+<text x="1168" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">클래스·일정·장소</text>
+<text x="1168" y="313.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">대체·보강도 기관 관리</text>
+<polyline points="720.0,332 720.0,364 444.0,364 444.0,332" fill="none" stroke="#3158D5" stroke-width="2" stroke-dasharray="6 6"/>
+<polygon points="444.0,332 448.3496553411123,341.0044710235268 439.6503446588877,341.0044710235268" fill="#3158D5"/>
+<rect x="490.0" y="353" width="360" height="28" rx="3" fill="#F5F7FC" stroke="#F5F7FC"/>
+<text x="502.0" y="369.44" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="16" fill="#3158D5">조건 불충족 → 후보·시간 조정</text>
+<text x="48" y="462.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">02  중앙 배포 자료 수신·사용</text>
+<rect x="48" y="485" width="240" height="112" rx="16" fill="#EDF0F5" stroke="#DCE3EE"/>
+<text x="64" y="519.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">외부: 중앙 C07</text>
+<text x="64" y="552.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">검토된 자료 배포</text>
+<text x="64" y="578.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">대상·버전·시점</text>
+<polyline points="288,541 324,541" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="324,541 314.9955289764732,545.3496553411123 314.9955289764732,536.6503446588877" fill="#9AAAC3"/>
+<rect x="324" y="485" width="240" height="112" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="340" y="519.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">I09 자료 수신</text>
+<text x="340" y="552.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">버전·변경점 확인</text>
+<text x="340" y="578.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">수신 상태 기록</text>
+<polyline points="564,541 600,541" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="600,541 590.9955289764732,545.3496553411123 590.9955289764732,536.6503446588877" fill="#9AAAC3"/>
+<rect x="600" y="485" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="616" y="519.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I09 클래스 연결</text>
+<text x="616" y="552.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">해당 과목·차시 연결</text>
+<text x="616" y="578.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">튜터에게 사용 안내</text>
+<polyline points="840,541 876,541" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="876,541 866.9955289764732,545.3496553411123 866.9955289764732,536.6503446588877" fill="#9AAAC3"/>
+<rect x="876" y="485" width="240" height="112" rx="16" fill="#EDF0F5" stroke="#DCE3EE"/>
+<text x="892" y="519.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">외부: 튜터 T03</text>
+<text x="892" y="552.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">공통 자료로 수업</text>
+<text x="892" y="578.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">같은 자료로 복습 배정</text>
+<polyline points="1116,541 1152,541" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="1152,541 1142.9955289764732,545.3496553411123 1142.9955289764732,536.6503446588877" fill="#9AAAC3"/>
+<rect x="1152" y="485" width="240" height="112" rx="16" fill="#E7F6F1" stroke="#DCE3EE"/>
+<text x="1168" y="519.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I01 운영 현황</text>
+<text x="1168" y="552.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">수신·사용 상태</text>
+<text x="1168" y="578.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">중앙 현황에 반영</text>
+<text x="48" y="697.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">03  운영 지원과 중앙 협력</text>
+<rect x="48" y="720" width="240" height="112" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="64" y="754.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">I06 지원 목록</text>
+<text x="64" y="787.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">수업 공백·접속 문제</text>
+<polyline points="288,776 324,776" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="324,776 314.9955289764732,780.3496553411123 314.9955289764732,771.6503446588877" fill="#9AAAC3"/>
+<rect x="324" y="720" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="340" y="754.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I07 기관 조치</text>
+<text x="340" y="787.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">담당·기한·지원 기록</text>
+<text x="340" y="813.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">미해결 사유 확인</text>
+<polyline points="564,776 600,776" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="600,776 590.9955289764732,780.3496553411123 590.9955289764732,771.6503446588877" fill="#9AAAC3"/>
+<rect x="600" y="720" width="240" height="112" rx="16" fill="#EDF0F5" stroke="#DCE3EE"/>
+<text x="616" y="754.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">외부: 중앙 C10</text>
+<text x="616" y="787.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">기관에서 해결 어려움</text>
+<text x="616" y="813.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">운영 지원·자료 정정</text>
+<polyline points="840,776 876,776" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="876,776 866.9955289764732,780.3496553411123 866.9955289764732,771.6503446588877" fill="#9AAAC3"/>
+<rect x="876" y="720" width="240" height="112" rx="16" fill="#FFF0E5" stroke="#DCE3EE"/>
+<text x="892" y="754.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I07 결과 확인</text>
+<text x="892" y="787.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">운영 재개 확인</text>
+<text x="892" y="813.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">미해결은 재지원</text>
+<polyline points="1116,776 1152,776" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="1152,776 1142.9955289764732,780.3496553411123 1142.9955289764732,771.6503446588877" fill="#9AAAC3"/>
+<rect x="1152" y="720" width="240" height="112" rx="16" fill="#E7F6F1" stroke="#DCE3EE"/>
+<text x="1168" y="754.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I01 현황 반영</text>
+<text x="1168" y="787.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">조치 결과 공유</text>
+<text x="1168" y="813.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">학습 이해와 구분</text>
+<text x="48" y="912.12" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="18" fill="#52627B">일반 매칭은 중앙 승인 없이 기관에서 확정합니다. 중앙은 전국 현황을 확인하고 필요한 지원을 제공합니다.</text>
+<text x="48" y="959.44" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="16" fill="#52627B">실선: 구조·이동  ·  점선: 보완·재질문  ·  회색: 외부 역할  ·  연한 주황: 확인·분기  ·  초록: 처리 결과</text>
+</svg>

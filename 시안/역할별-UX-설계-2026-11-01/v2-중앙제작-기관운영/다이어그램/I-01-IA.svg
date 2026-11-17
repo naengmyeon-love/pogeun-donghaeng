@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="980" viewBox="0 0 1440 980"><title>기관 · IA 정보구조</title><desc>우리 기관에서 튜터·학생을 매칭하고, 중앙 배포 자료로 수업을 운영합니다.</desc><rect width="1440" height="980" fill="#F5F7FC"/>
+<text x="48" y="46.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">포근동행  /  역할별 UX 설계  /  2026.11.01</text>
+<text x="48" y="104.24" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="36" fill="#17243B">기관 · IA 정보구조</text>
+<text x="48" y="141.96" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="19" fill="#52627B">우리 기관에서 튜터·학생을 매칭하고, 중앙 배포 자료로 수업을 운영합니다.</text>
+<polyline points="48,166 1392,166" fill="none" stroke="#DCE3EE" stroke-width="1"/>
+<rect x="540" y="190" width="360" height="95" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="556" y="224.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">기관 공간</text>
+<text x="556" y="257.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">정보를 어떤 묶음으로 나누는가</text>
+<polyline points="720,285 720,315" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polyline points="175.2,315 1264.8,315" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polyline points="175.2,315 175.2,345" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="175.2,345 170.85034465888768,335.9955289764732 179.5496553411123,335.9955289764732" fill="#9AAAC3"/>
+<rect x="48.0" y="345" width="254.4" height="65" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="64.0" y="379.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">I01  운영 홈</text>
+<rect x="48.0" y="432" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="64.0" y="466.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">현황 요약</text>
+<text x="64.0" y="499.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">수업·대기·지원 필요</text>
+<polyline points="175.2,410 175.2,432" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<rect x="48.0" y="551" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="64.0" y="585.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">우선 확인</text>
+<text x="64.0" y="618.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">미처리 요청·기한</text>
+<polyline points="447.59999999999997,315 447.59999999999997,345" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="447.59999999999997,345 443.2503446588877,335.9955289764732 451.94965534111225,335.9955289764732" fill="#9AAAC3"/>
+<rect x="320.4" y="345" width="254.4" height="65" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="336.4" y="379.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">I02  참여 학생</text>
+<rect x="320.4" y="432" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="336.4" y="466.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I03 학생 상세</text>
+<text x="336.4" y="499.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">참여·동의 확인 상태</text>
+<polyline points="447.59999999999997,410 447.59999999999997,432" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<rect x="320.4" y="551" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="336.4" y="585.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">학습 지원 정보</text>
+<text x="336.4" y="618.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">출결·접속 지원 필요</text>
+<polyline points="720.0,315 720.0,345" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="720.0,345 715.6503446588877,335.9955289764732 724.3496553411123,335.9955289764732" fill="#9AAAC3"/>
+<rect x="592.8" y="345" width="254.4" height="65" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="608.8" y="379.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">I04  튜터·매칭</text>
+<rect x="592.8" y="432" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="608.8" y="466.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">튜터·학생 선택</text>
+<text x="608.8" y="499.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">과목·자격·시간·정원</text>
+<polyline points="720.0,410 720.0,432" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<rect x="592.8" y="551" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="608.8" y="585.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">기관 매칭 확정</text>
+<text x="608.8" y="618.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">신규·대체·인계</text>
+<polyline points="992.4,315 992.4,345" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="992.4,345 988.0503446588876,335.9955289764732 996.7496553411123,335.9955289764732" fill="#9AAAC3"/>
+<rect x="865.1999999999999" y="345" width="254.4" height="65" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="881.1999999999999" y="379.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">I05  일정·자료</text>
+<rect x="865.1999999999999" y="432" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="881.1999999999999" y="466.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">기관 수업 일정</text>
+<text x="881.1999999999999" y="499.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">담당·장소·변경·보강</text>
+<polyline points="992.4,410 992.4,432" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<rect x="865.1999999999999" y="551" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="881.1999999999999" y="585.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I09 배포 자료</text>
+<text x="881.1999999999999" y="618.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">수신 확인·클래스 연결</text>
+<polyline points="1264.8,315 1264.8,345" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="1264.8,345 1260.4503446588876,335.9955289764732 1269.1496553411123,335.9955289764732" fill="#9AAAC3"/>
+<rect x="1137.6" y="345" width="254.4" height="65" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="1153.6" y="379.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">I06  지원</text>
+<rect x="1137.6" y="432" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="1153.6" y="466.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">지원 요청 목록</text>
+<text x="1153.6" y="499.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">접속·기기·수업 공백</text>
+<polyline points="1264.8,410 1264.8,432" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<rect x="1137.6" y="551" width="254.4" height="99" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="1153.6" y="585.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">I07 지원 상세</text>
+<text x="1153.6" y="618.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">담당·조치·확인 결과</text>
+<rect x="48" y="837" width="1344" height="83" rx="16" fill="#EAF0FF" stroke="#EAF0FF"/>
+<text x="66" y="866.96" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="19" fill="#3158D5">정보 연결 원칙</text>
+<text x="66" y="895.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">기관이 소속 튜터·학생 매칭을 확정합니다. 공통 자료는 중앙에서 받고 운영 현황·지원 필요를 중앙과 공유합니다.</text>
+<text x="48" y="809.12" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="18" fill="#52627B">공통 영역  G01 로그인·참여 상태  /  G02 도움·계정  /  I08 기관 설정</text>
+<text x="48" y="959.44" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="16" fill="#52627B">실선: 구조·이동  ·  점선: 보완·재질문  ·  회색: 외부 역할  ·  연한 주황: 확인·분기  ·  초록: 처리 결과</text>
+</svg>

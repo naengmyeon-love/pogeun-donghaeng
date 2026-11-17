@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="980" viewBox="0 0 1440 980"><title>튜터 · 화면 흐름도</title><desc>중앙 배포 자료로 수업하고, 질문에 답변하며, 자료 개선 의견을 전달합니다.</desc><rect width="1440" height="980" fill="#F5F7FC"/>
+<text x="48" y="46.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">포근동행  /  역할별 UX 설계  /  2026.11.01</text>
+<text x="48" y="104.24" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="36" fill="#17243B">튜터 · 화면 흐름도</text>
+<text x="48" y="141.96" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="19" fill="#52627B">중앙 배포 자료로 수업하고, 질문에 답변하며, 자료 개선 의견을 전달합니다.</text>
+<polyline points="48,166 1392,166" fill="none" stroke="#DCE3EE" stroke-width="1"/>
+<text x="48" y="197.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">01  배포 자료로 수업 준비·진행</text>
+<rect x="48" y="220" width="240" height="112" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="64" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">T01 오늘</text>
+<text x="64" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">기관이 배정한 수업</text>
+<polyline points="288,276 324,276" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="324,276 314.9955289764732,280.3496553411123 314.9955289764732,271.6503446588877" fill="#9AAAC3"/>
+<rect x="324" y="220" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="340" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">T03 수업 준비</text>
+<text x="340" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">T04 배포 자료 확인</text>
+<text x="340" y="313.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">배정된 버전 유지</text>
+<polyline points="564,276 600,276" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="600,276 590.9955289764732,280.3496553411123 590.9955289764732,271.6503446588877" fill="#9AAAC3"/>
+<rect x="600" y="220" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="616" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">T03 수업 진행</text>
+<text x="616" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">학생 자료·지도안</text>
+<text x="616" y="313.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">출석·이해 확인</text>
+<polyline points="840,276 876,276" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="876,276 866.9955289764732,280.3496553411123 866.9955289764732,271.6503446588877" fill="#9AAAC3"/>
+<rect x="876" y="220" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="892" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">T03 수업 마무리</text>
+<text x="892" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">공통 복습 배정</text>
+<text x="892" y="313.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">수업 메모 저장</text>
+<polyline points="1116,276 1152,276" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="1152,276 1142.9955289764732,280.3496553411123 1142.9955289764732,271.6503446588877" fill="#9AAAC3"/>
+<rect x="1152" y="220" width="240" height="112" rx="16" fill="#E7F6F1" stroke="#DCE3EE"/>
+<text x="1168" y="254.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">T08 학습 기록</text>
+<text x="1168" y="287.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">보충할 내용 확인</text>
+<text x="1168" y="313.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">다음 수업 반영</text>
+<text x="48" y="427.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">02  자료 오류·개선 의견이 있는 경우</text>
+<rect x="48" y="450" width="240" height="112" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="64" y="484.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">T04 배포 자료</text>
+<text x="64" y="517.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">자료·문항 위치 확인</text>
+<polyline points="288,506 324,506" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="324,506 314.9955289764732,510.3496553411123 314.9955289764732,501.6503446588877" fill="#9AAAC3"/>
+<rect x="324" y="450" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="340" y="484.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">T04 의견 전달</text>
+<text x="340" y="517.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">오류·개선 사유</text>
+<text x="340" y="543.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">원본은 수정하지 않음</text>
+<polyline points="564,506 600,506" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="600,506 590.9955289764732,510.3496553411123 590.9955289764732,501.6503446588877" fill="#9AAAC3"/>
+<rect x="600" y="450" width="240" height="112" rx="16" fill="#EDF0F5" stroke="#DCE3EE"/>
+<text x="616" y="484.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">외부: 중앙 C10</text>
+<text x="616" y="517.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">접수·영향 확인</text>
+<text x="616" y="543.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">중앙 제작팀 검토</text>
+<polyline points="840,506 876,506" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="876,506 866.9955289764732,510.3496553411123 866.9955289764732,501.6503446588877" fill="#9AAAC3"/>
+<rect x="876" y="450" width="240" height="112" rx="16" fill="#EDF0F5" stroke="#DCE3EE"/>
+<text x="892" y="484.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">외부: 중앙 C05</text>
+<text x="892" y="517.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">필요 시 수정·검토</text>
+<text x="892" y="543.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">새 버전 제작</text>
+<polyline points="1116,506 1152,506" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="1152,506 1142.9955289764732,510.3496553411123 1142.9955289764732,501.6503446588877" fill="#9AAAC3"/>
+<rect x="1152" y="450" width="240" height="112" rx="16" fill="#E7F6F1" stroke="#DCE3EE"/>
+<text x="1168" y="484.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">T04 정정 안내</text>
+<text x="1168" y="517.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">중앙 재배포 확인</text>
+<text x="1168" y="543.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">기관 적용 안내 확인</text>
+<text x="48" y="692.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">03  학생 질문에 답변</text>
+<rect x="48" y="715" width="240" height="112" rx="16" fill="#EAF0FF" stroke="#DCE3EE"/>
+<text x="64" y="749.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#3158D5">T06 질문함</text>
+<text x="64" y="782.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">새 질문·재질문 선택</text>
+<polyline points="288,771 324,771" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="324,771 314.9955289764732,775.3496553411123 314.9955289764732,766.6503446588877" fill="#9AAAC3"/>
+<rect x="324" y="715" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="340" y="749.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">T07 맥락 확인</text>
+<text x="340" y="782.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">자료·버전·문항</text>
+<text x="340" y="808.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">학생의 시도 확인</text>
+<polyline points="564,771 600,771" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="600,771 590.9955289764732,775.3496553411123 590.9955289764732,766.6503446588877" fill="#9AAAC3"/>
+<rect x="600" y="715" width="240" height="112" rx="16" fill="#FFFFFF" stroke="#DCE3EE"/>
+<text x="616" y="749.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">T07 설명 작성</text>
+<text x="616" y="782.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">설명 확인 후 전송</text>
+<text x="616" y="808.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">실패 시 입력 유지</text>
+<polyline points="840,771 876,771" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="876,771 866.9955289764732,775.3496553411123 866.9955289764732,766.6503446588877" fill="#9AAAC3"/>
+<rect x="876" y="715" width="240" height="112" rx="16" fill="#EDF0F5" stroke="#DCE3EE"/>
+<text x="892" y="749.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">외부: S06 학생</text>
+<text x="892" y="782.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">이해함 / 재질문</text>
+<polyline points="1116,771 1152,771" fill="none" stroke="#9AAAC3" stroke-width="2"/>
+<polygon points="1152,771 1142.9955289764732,775.3496553411123 1142.9955289764732,766.6503446588877" fill="#9AAAC3"/>
+<rect x="1152" y="715" width="240" height="112" rx="16" fill="#E7F6F1" stroke="#DCE3EE"/>
+<text x="1168" y="749.64" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="21" fill="#17243B">T06·T08 후속</text>
+<text x="1168" y="782.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">재질문은 답변 대기</text>
+<text x="1168" y="808.28" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="17" fill="#52627B">보충은 다음 수업</text>
+<text x="48" y="906.12" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="18" fill="#52627B">튜터의 자료 제작·승인 요청 흐름은 없습니다. 수업 메모와 보충 설명은 중앙 배포 원본과 구분합니다.</text>
+<text x="48" y="959.44" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="16" fill="#52627B">실선: 구조·이동  ·  점선: 보완·재질문  ·  회색: 외부 역할  ·  연한 주황: 확인·분기  ·  초록: 처리 결과</text>
+</svg>
